@@ -6,7 +6,7 @@
       "use": "@vercel/node"
     },
     {
-      "src": "frontend/**",
+      "src": "agentic/**",
       "use": "@vercel/static-build",
       "config": {
         "distDir": "build"
@@ -20,7 +20,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/frontend/$1"
+      "dest": "/agentic/$1"
     }
   ],
   "env": {
