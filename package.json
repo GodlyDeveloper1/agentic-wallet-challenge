@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "ts-node src/server/index.ts",
+    "start": "node dist/server/index.js" 
   },
   "keywords": [],
   "author": "",

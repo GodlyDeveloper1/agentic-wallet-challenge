@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: agentic-wallet-api
+    runtime: node
+    repo: https://github.com/YOUR_USERNAME/agentic-wallet-challenge
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm run server
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: SOLANA_RPC_URL
+        value: https://api.devnet.solana.com
+      - key: MASTER_PASSWORD
+        value: MasterPassword123!
+      - key: PORT
+        value: 10000
