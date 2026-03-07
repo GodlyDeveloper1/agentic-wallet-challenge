@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "build:backend": "tsc",
     "server": "ts-node src/server/index.ts",
-    "start": "node dist/server/index.js" 
+    "start": "node dist/server/index.js",
+    "dev": "ts-node src/server/index.ts"
   },
   "keywords": [],
   "author": "",
