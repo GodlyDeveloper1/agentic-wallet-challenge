@@ -6,7 +6,7 @@
       "use": "@vercel/node"
     },
     {
-      "src": "agentic/**",
+      "src": "frontend/**",
       "use": "@vercel/static-build",
       "config": {
         "distDir": "build"
@@ -20,11 +20,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/agentic/$1"
+      "dest": "/frontend/$1"
     }
-  ],
-  "env": {
-    "SOLANA_RPC_URL": "https://api.devnet.solana.com",
-    "MASTER_PASSWORD": "MasterPassword123!"
-  }
+  ]
 }
