@@ -1,0 +1,9 @@
+{
+  "name": "master",
+  "address": "HKpiWpSqCPkDNKFPTgBSgHAdNmhtsSUEGRoB1YmX2vgR",
+  "encrypted": "rdqeajY0WpESriOul1cut94/hUvRwHZTx7SCDov6LFPP6Fi9UFcC/Po3mslNVPRoWz34KhkWHBLyGGW97GMeaeU5pAIn9RgM2yr1wo2gKiAw2QK83ns1IogJTqtzY4XD",
+  "salt": "73543fcca14fbd6080f6b22ad7af6529",
+  "iv": "d3c7eabda3e3b156f8535d4e8ce31564",
+  "createdAt": "2026-03-06T15:44:05.778Z",
+  "lastUsed": "2026-03-06T15:44:25.446Z"
+}

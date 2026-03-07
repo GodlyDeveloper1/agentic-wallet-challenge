@@ -1,0 +1,9 @@
+{
+  "name": "agent-1-5508",
+  "address": "9kNdphrC3GK8TcCYwroXev14yLmnKuhHQFfhzefrw8Z5",
+  "encrypted": "IMfHLumF+F9+0LICE8tFf6gvAoFDIgqQwb+xEQ1qBJMDcLwiMbrOkAGKpX8rdhq/oXPNgTGM54ZxruKUDA/zOfpOCZVjhcZX+w8WqfsRUWY88ORoR261XxkE13G+TJmN",
+  "salt": "8abe2cf5b0dbb080a714ddc000c6e4d1",
+  "iv": "4b661d83f6a01493cb51b2dde791d5dd",
+  "createdAt": "2026-03-06T15:44:44.738Z",
+  "lastUsed": "2026-03-06T15:45:05.078Z"
+}

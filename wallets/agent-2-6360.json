@@ -1,0 +1,9 @@
+{
+  "name": "agent-2-6360",
+  "address": "8YpXePuhFituHTBgbE5LkzwqyM8NyM53ebELAzbtTF3p",
+  "encrypted": "iemhLssKaL/0dLwtFDwnANOxvF4FmU2ctvkitFWeoCRZJQ6dRy2kZ+Wd3AFEmJKkBiNQlwlKb2rubxH+BPr6vfdwN/FAXx7xMwDC484zbYrVVwnAjJ3ivMpNB0wMNDHv",
+  "salt": "ca05c444667be871ec30f2769502f1ae",
+  "iv": "4f26150b3d7443abd17bae2441aa4985",
+  "createdAt": "2026-03-06T15:45:26.188Z",
+  "lastUsed": "2026-03-06T15:45:55.770Z"
+}
